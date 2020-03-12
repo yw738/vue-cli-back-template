@@ -24,12 +24,12 @@ yarn
 yarn serve
 ```
 
-### vue 打包
+### 打包
 ```
 yarn build
 ```
 
-### vue 运行 自定义开发环境
+### 运行自定义开发环境
 ```
 yarn serve -test
 ```
