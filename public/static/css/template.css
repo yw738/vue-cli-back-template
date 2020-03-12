@@ -1,0 +1,79 @@
+.floatF {
+    float: left;
+}
+
+.bgWhite {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.el-submenu__title {
+    height: 36px !important;
+    line-height: 36px !important;
+}
+
+.el-menu-item-group__title {
+    padding: 0 !important;
+}
+
+
+/* 通用标题 */
+
+.title {
+    line-height: 36px;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid #dcdfe6;
+    margin-bottom: 10px;
+}
+
+
+/* 通用盒子css */
+
+.box,
+.boxBorder {
+    border: 1px solid #dcdfe6;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.lh28 {
+    line-height: 28px;
+}
+
+.minH600 {
+    min-height: 600px;
+}
+
+.width100 {
+    width: 100% !important;
+}
+
+#menuDiaLog .el-input__inner {
+    text-align: left !important;
+}
+
+.el-table__body-wrapper {
+    height: auto !important;
+}
+
+.showBox img {
+    width: 100% !important;
+}
+
+.textC {
+    text-align: center !important;
+}
+
+.textL {
+    text-align: left !important;
+}
+
+.textR {
+    text-align: right !important;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
