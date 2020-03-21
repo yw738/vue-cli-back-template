@@ -1,7 +1,7 @@
 
 ## 简介
 ```
-vue3.0后台简易模版。
+vue后台简易模版。
 
 配置了axios、element、vuex、less、vue-router。二次封装了element的table组件及form表单组件。
 
